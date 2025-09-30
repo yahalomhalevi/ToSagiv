@@ -1,0 +1,8 @@
+body {
+    direction: rtl;
+    background-color: #f8f9fa;
+}
+
+#result {
+    min-height: 150px;
+}
