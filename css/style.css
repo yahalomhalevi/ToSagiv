@@ -1,8 +1,18 @@
 body {
     direction: rtl;
     background-color: #f8f9fa;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 #result {
-    min-height: 150px;
+    min-height: 180px;
+}
+
+form#car-form input {
+ font-size: 1.2rem;
+ height: 45px;
+}
+form#car-form button {
+ height: 45px;
+ font-size: 1.1rem;
 }
