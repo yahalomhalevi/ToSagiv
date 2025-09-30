@@ -21,7 +21,7 @@ $(document).ready(function () {
                 </div>
                 <div class="card-body">
                    <p><strong>תיאור:>/strong> ${car.tozeret_nm}
-${car.kinuy_mishari}</p>
+                ${car.kinuy_mishari}</p>
                  <p><strong>רכב סוג:>/strong> ${car.sug_delek_nm}</p>
                  <p><strong>ייצור שנת:>/strong> ${car.shnat_yitzur}</p>
                  <p><strong>רישיון תוקף:>/strong> ${car.tokef_dt}</p>
